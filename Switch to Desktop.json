@@ -1,0 +1,46 @@
+{
+  "cards": [
+    {
+      "applicationId": "7b74be9d-6e67-44e4-b95f-8ff444fd15d2",
+      "attribute": "MACRO_PLAYBACK",
+      "continuous": false,
+      "executeOnProfileChange": false,
+      "id": "macro_presets_open_application_win",
+      "macro": {
+        "actionName": "",
+        "alternateMacros": [],
+        "icon": "",
+        "initPeriod": 0,
+        "onboardable": false,
+        "openFileFolder": {
+          "appName": "device2",
+          "isFolderMode": false,
+          "path": ""
+        },
+        "repeatPeriod": 0,
+        "type": "OPEN_FILE_FOLDER"
+      },
+      "name": "ASSIGNMENT_NAME_OPEN_APPLICATION",
+      "nestedCards": {},
+      "nestedCardsOrder": [],
+      "readOnly": true,
+      "requireFocus": false,
+      "selectedNestedCard": "",
+      "state": "READY",
+      "tags": [
+        "PRESET_TAG_KEY_OR_BUTTON"
+      ],
+      "taskId": 65540
+    }
+  ],
+  "description": "",
+  "iconPath": "",
+  "id": "0f59c28e-4d70-4a3f-a971-d76a0d1daff5",
+  "lastEditTimestamp": "1711559472671",
+  "name": "Switch to Desktop",
+  "originType": "CUSTOM",
+  "platform": "WIN",
+  "predefinedIdRef": "",
+  "state": "ACTIVE",
+  "usageCount": 0
+}
